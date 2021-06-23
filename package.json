@@ -1,0 +1,29 @@
+{
+  "name": "rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.3"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnLanni619/jest-another-RPG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnLanni619/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/JohnLanni619/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
